@@ -1,17 +1,22 @@
-# Build a Custom Object Detection Model from Scratch with Amazon SageMaker and Deploy it at the Edge with AWS DeepLens <!-- omit in toc -->
+# This repository has been migrated to https://github.com/aws-samples/amazon-sagemaker-object-detection-from-scratch
+
+## Build a Custom Object Detection Model from Scratch with Amazon SageMaker and Deploy it at the Edge with AWS DeepLens <!-- omit in toc -->
+
+
 
 This repository contains the code used during the namesake webinar broadcasted at the [AI & ML Web Day in July 11th 2019](https://pages.awscloud.com/EMEA-field-OE-ai-ml-web-day-2019-reg-event.html).
 
 
-# Table of Contents <!-- omit in toc -->
-- [Directory structure](#Directory-structure)
-- [Prerequisites](#Prerequisites)
-- [How to deploy the Lambda functions](#How-to-deploy-the-Lambda-functions)
-  - [Mac/Linux users](#MacLinux-users)
-  - [Windows users](#Windows-users)
-- [How to run the trigger application](#How-to-run-the-trigger-application)
-  - [Download the Greengrass Group CA certificate](#Download-the-Greengrass-Group-CA-certificate)
-  - [Run the trigger application](#Run-the-trigger-application)
+## Table of Contents <!-- omit in toc -->
+- [This repository has been migrated to https://github.com/aws-samples/amazon-sagemaker-object-detection-from-scratch](#this-repository-has-been-migrated-to-httpsgithubcomaws-samplesamazon-sagemaker-object-detection-from-scratch)
+  - [Directory structure](#directory-structure)
+  - [Prerequisites](#prerequisites)
+  - [How to deploy the Lambda functions](#how-to-deploy-the-lambda-functions)
+    - [Mac/Linux users](#maclinux-users)
+    - [Windows users](#windows-users)
+  - [How to run the trigger application](#how-to-run-the-trigger-application)
+    - [Download the Greengrass Group CA certificate](#download-the-greengrass-group-ca-certificate)
+    - [Run the trigger application](#run-the-trigger-application)
 
 ## Directory structure
 ```
